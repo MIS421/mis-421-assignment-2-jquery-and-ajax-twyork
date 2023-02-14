@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\twyork-assignment2-521.props" />
+</Project>
